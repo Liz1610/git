@@ -1,4 +1,3 @@
-print("Hello Git")
+print("Hello git")
 print("cambios")
-print("hola Samuel")
-
+print("hola Samuels")
